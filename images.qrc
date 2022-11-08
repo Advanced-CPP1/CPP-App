@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/coder.ico</file>
+        <file>imgs/cpp_logo.png</file>
+        <file>imgs/cpp_pic1.png</file>
+        <file>imgs/cpp_pic2.png</file>
+        <file>imgs/cpp_pic3.png</file>
+        <file>imgs/cpp_pic6.png</file>
+        <file>imgs/java_logo.png</file>
+        <file>imgs/python_logo.png</file>
+        <file>imgs/rust_pic1.png</file>
+        <file>imgs/cpp_pic7.png</file>
+        <file>imgs/java_pic1.jpg</file>
+        <file>imgs/java_pic2.png</file>
+        <file>imgs/python_pic1.png</file>
+        <file>imgs/cpp_pic4.png</file>
+        <file>imgs/cpp_pic5.png</file>
+        <file>imgs/java_pic3.png</file>
+        <file>imgs/java_pic4.png</file>
+        <file>imgs/rust_logo.png</file>
+        <file>imgs/bye.txt</file>
+        <file>imgs/python_pic2.png</file>
+    </qresource>
+</RCC>
